@@ -1,9 +1,12 @@
 body {
-  margin: 0;
+  margin: 0px;
+}
+html {
+  width: 100vw;
 }
 .row {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 .nav {
   padding: 0;
@@ -16,4 +19,22 @@ body {
 
 h5 {
   padding-top: 3%;
+}
+
+img {
+  width: 15vw;
+  height: 20vw;
+}
+.row div {
+  padding: 0;
+}
+.icon {
+  width: 2vw;
+  height: 2vw;
+  float:left;
+  margin-left:17vw;
+}
+.cp{
+    float:left;
+    margin-left:4%;
 }
