@@ -54,6 +54,6 @@ img {
 
 @media only screen and (max-width: 800) {
 	.cp_font {
-        font-size: 9dp;
+		font-size: 30px;
 	}
 }
