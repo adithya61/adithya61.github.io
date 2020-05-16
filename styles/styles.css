@@ -1,40 +1,53 @@
 body {
-  margin: 0px;
+	margin: 0px;
 }
 html {
-  width: 100vw;
+	width: 100%;
+	width: 100vw;
 }
 .row {
-  margin: 0px;
-  padding: 0px;
+	margin: 0px;
+	padding: 0px;
 }
 .nav {
-  padding: 0;
-  height: 4em;
-  background-color: #ffcb4d;
+	padding: 0;
+	height: 4em;
+	background-color: #ffcb4d;
 }
 .nav a {
-  padding: 1.1em;
+	padding: 1.1em;
 }
 
 h5 {
-  padding-top: 3%;
+	padding-top: 3%;
 }
 
 img {
-  width: 15vw;
-  height: 20vw;
+	width: 45%;
+	height: 40%;
 }
 .row div {
-  padding: 0;
+	padding: 0;
 }
 .icon {
-  width: 2vw;
-  height: 2vw;
-  float:left;
-  margin-left:17vw;
+	width: 6%;
+	height: 6%;
+	float: left;
+	margin-left: 24%;
 }
-.cp{
-    float:left;
-    margin-left:4%;
+.cp {
+	float: left;
+	margin-left: 4%;
+}
+.fab {
+	font-size: 2.6em;
+}
+.fa-linkedin {
+	margin-right: 9%;
+}
+.fa-github {
+	margin-right: 16%;
+}
+.fa-facebook {
+	margin-right: 9%;
 }
