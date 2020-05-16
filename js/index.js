@@ -20,7 +20,7 @@ function myFunction(x) {
             </h5>
           </div>
         </div>
-        <nav class="navbar navbar-dark bg-dark">
+        <nav class="navbar ">
           <button
             class="navbar-toggler"
             type="button"
@@ -30,7 +30,7 @@ function myFunction(x) {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <i class="fas fa-bars navbar-toggler-icon"></i>
           </button>
         </nav>
       </div>`;
