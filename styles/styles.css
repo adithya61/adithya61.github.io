@@ -56,33 +56,43 @@ img {
 .fa-facebook {
 	margin-right: 9%;
 }
+.fas {
+    color: white;
+	margin-right: 1%;
+}
+
 
 @media only screen and (max-width: 800px) {
-    
-	.cp_font {
-		font-size: 6vw;
-	}
+    .gonna{
+        display: none;
+    }
+    .cp_font {
+        font-size: 6vw;
+    }
 
-	.icon {
-		width: 9%;
-		height: 9%;
-		float: left;
-		margin-left: 18%;
-	}
-	.page-footer {
-		width: 100%;
-		text-align: center;
-	}
+    .icon {
+        width: 9%;
+        height: 9%;
+        float: left;
+        margin-left: 18%;
+    }
+    .page-footer {
+        width: 100%;
+        text-align: center;
+    }
 
-	.footer_contents {
-		text-align: center;
-	}
-	
-	.fas, .fa-bars {
-		color: #f7fff7;
-	}
+    .footer_contents {
+        text-align: center;
+    }
+
+    .fas,
+    .fa-bars {
+        color: #f7fff7;
+    }
 }
-.fas {
-	color: white;
-	margin-right: 1%;
+
+@media only screen and (min-width:800px){
+    .wanna{
+        display: none;
+    }
 }
