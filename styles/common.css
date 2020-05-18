@@ -1,0 +1,77 @@
+body {
+	margin: 0px;
+	background-color: #000000;
+}
+html {
+	width: 100%;
+	width: 100vw;
+}
+.row {
+	margin: 0px;
+	padding: 0px;
+}
+.nav {
+	padding: 0;
+	height: 4em;
+	background-color: #000000;
+}
+.nav a {
+	padding: 1.1em;
+}
+
+.row div {
+	padding: 0;
+}
+
+@media only screen and (max-width: 800px) {
+	.gonna {
+		display: none;
+	}
+	.cp_font {
+		font-size: 6vw;
+	}
+
+	.icon {
+		width: 9%;
+		height: 9%;
+		float: left;
+		margin-left: 18%;
+	}
+	.page-footer {
+		width: 100%;
+		text-align: center;
+	}
+
+	.footer_contents {
+		text-align: center;
+	}
+
+	.fas,
+	.fa-bars {
+		color: #f7fff7;
+	}
+}
+
+@media only screen and (min-width: 800px) {
+	.wanna {
+		display: none;
+	}
+}
+
+.fas {
+	color: white;
+	margin-right: 1%;
+}
+
+.nav {
+	padding: 0;
+	height: 4em;
+	background-color: #000000;
+}
+.nav a {
+	padding: 1.1em;
+}
+
+h5 {
+	padding-top: 3%;
+}
